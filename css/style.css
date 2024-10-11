@@ -689,7 +689,7 @@ html.show-mobile-nav .navbar-list {
 }
 .card-container {
   position: relative;
-  height: 100%;
+  padding-buttom: 10px;
 }
 .card-container .card-cover {
   position: absolute;
