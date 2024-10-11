@@ -309,7 +309,6 @@ dfn {
 }
 .body-container {
   position: relative;
-  padding: var(--layout-padding) 0;
 }
 .back-to-top-fixed {
   position: fixed;
